@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/design-system-test/static/css/main.f855e6bc.css",
+    "main.js": "/design-system-test/static/js/main.2cd57f74.js",
+    "static/js/453.38366372.chunk.js": "/design-system-test/static/js/453.38366372.chunk.js",
+    "static/media/logo.svg": "/design-system-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/design-system-test/index.html",
+    "main.f855e6bc.css.map": "/design-system-test/static/css/main.f855e6bc.css.map",
+    "main.2cd57f74.js.map": "/design-system-test/static/js/main.2cd57f74.js.map",
+    "453.38366372.chunk.js.map": "/design-system-test/static/js/453.38366372.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2cd57f74.js"
+  ]
+}
